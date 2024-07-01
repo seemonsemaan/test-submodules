@@ -1,3 +1,6 @@
 [submodule "bvnApi"]
 	path = bvnApi
 	url = ./bvnApi/
+[submodule "private-suite"]
+	path = private-suite
+	url = ./private-suite/
